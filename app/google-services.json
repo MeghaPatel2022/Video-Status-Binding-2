@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1014930867211",
+    "project_id": "vidstatus-2",
+    "storage_bucket": "vidstatus-2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1014930867211:android:bbdabc7cb3b14f09c2f30e",
+        "android_client_info": {
+          "package_name": "snackvideo.vidstatus.mojstatus.funnyvideo.shortindianvideoapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1014930867211-p0l4a2n12i6o8kdmooa84k1dat4qfh7o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5LqgmBnungqJK5w7k9aaxsEKIqM0tLYI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1014930867211-p0l4a2n12i6o8kdmooa84k1dat4qfh7o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <data>
+
+        <variable
+            name="languageItems"
+            type="snackvideo.vidstatus.mojstatus.funnyvideo.shortindianvideoapp.model.language.LanguageResponseItem" />
+    </data>
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginHorizontal="@dimen/_5sdp"
+        android:layout_marginVertical="@dimen/_3sdp"
+        android:background="@color/white">
+
+        <TextView
+            android:id="@+id/tvLanguage"
+            android:layout_width="@dimen/_100sdp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_toRightOf="@+id/imgTab"
+            android:background="@drawable/languge_draw"
+            android:gravity="center"
+            android:padding="@dimen/_7sdp"
+            android:singleLine="true"
+            android:text="@{languageItems.language}"
+            android:textColor="@color/purple_200"
+            android:textSize="@dimen/_12sdp" />
+
+    </LinearLayout>
+</layout>

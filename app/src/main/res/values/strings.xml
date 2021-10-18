@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Video Status</string>
+
+    <string name="new1" translatable="false">New</string>
+    <string name="trending" translatable="false">Trending</string>
+    <string name="category" translatable="false">Category</string>
+    <!-- TODO: Remove or change this placeholder text -->
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="vw_rationale_storage" translatable="false">Need Reading Storage Permission for Picking Files</string>
+    <string name="privacy_policy" translatable="false">https://accurateweatherforecast.blogspot.com/2021/02/weather-privacy-policy.html</string>
+
+    <string name="app_id" translatable="false">ca-app-pub-1064360693704150~6266791532</string>
+    <!--    <string name="banner_ad" translatable="false">ca-app-pub-1064360693704150/4953709862</string>-->
+    <string name="banner_ad" translatable="false">ca-app-pub-3940256099942544/6300978111</string>
+
+    <string name="fb_banner_placementID" translatable="false">311869343807148_311870600473689</string>
+    <string name="fb_inter_placementID" translatable="false">311869343807148_311869980473751</string>
+    <string name="facebook_app_id" translatable="false">311869343807148</string>
+</resources>

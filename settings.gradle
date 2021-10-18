@@ -1,0 +1,2 @@
+rootProject.name = "VideoStatus"
+include ':app',':giraffeplayer',':ijkplayer-java',':squareprogressbar'
